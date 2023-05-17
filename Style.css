@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;;
+
+}
+
+
+
+}
+
+h1{
+    font-weight:bold;
+    margin: 5px 1rem 1rem 1rem;
+}
+
+h2{
+    margin-left: 1rem;
+}
+
+h3{
+    margin-left: 1rem;
+    margin-bottom: 50px;
+}
+body{
+    margin:  50px 50px 50px 50px;
+}
+
+ul{
+    margin-bottom: 50px;
+}
+li{
+    margin:auto;
+}
+
+.image-profile{
+    width: 80px;
+    height: 80px;
+    margin-top: 1rem;
+    
+}
+.name{
+    width: 420px;
+    height: 300px;  
+    display: block;
+    margin:auto;
+    border-radius: 100px; /* redondea los bordes de las imagenes */
+    object-fit: cover; /* no modifica la imageb */
+    margin-bottom: 20px
+    
+}
